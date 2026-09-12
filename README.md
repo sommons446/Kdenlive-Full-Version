@@ -240,3 +240,6 @@ This repository serves as the official landing page for Kdenlive. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Kdenlive today!**
+
+---
+**Last updated:** 2026-09-12 13:14:11 UTC

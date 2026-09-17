@@ -242,4 +242,4 @@ This repository serves as the official landing page for Kdenlive. The software i
 **Get the most recent version of Kdenlive today!**
 
 ---
-**Last updated:** 2026-09-17 17:51:48 UTC
+**Last updated:** 2026-09-17 20:43:59 UTC
